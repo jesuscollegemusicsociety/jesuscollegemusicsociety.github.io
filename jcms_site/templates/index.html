@@ -1,0 +1,19 @@
+{% extends "layouts/base.html" %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+<div class="large-container">
+    <div class="main-carousel" data-carousel='{"cellAlign": "left", "autoPlay": 5000}'>
+        {% for photo in data["home-carousel.yml"] %}
+        <div class="carousel-cell">
+            <img src="{{ url_for('static', filename='photos/' + photo.file) }}" alt="{{ photo.alt }}" width="769">
+        </div>
+        {% endfor %}
+    </div>
+    <div class="center-text">
+        <h1>One of Cambridge's Largest Music Societies</h1>
+        <h2>Jesus College, University of Cambridge</h2>
+    </div>
+</div>
+{% endblock %}

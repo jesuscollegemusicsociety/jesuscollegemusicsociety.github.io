@@ -1,0 +1,9 @@
+{% extends "layouts/base.html" %}
+
+{% block title %}About{% endblock %}
+
+{% block content %}
+<div class="container center-text">
+    {% markdown %}{% include "about.md" %}{% endmarkdown %}
+</div>
+{% endblock %}

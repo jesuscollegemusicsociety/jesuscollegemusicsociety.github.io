@@ -1,0 +1,27 @@
+name: JCMS website build
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '>= 3.10'
+
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v6
+        with:
+          version: '0.8.5'
+          enable-cache: true
+
+      - name: Install dependencies
+        run: uv sync
+      
+      - name: Build
+        run: uv run build.py

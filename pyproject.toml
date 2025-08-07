@@ -1,0 +1,10 @@
+[project]
+name = "jesuscollegemusicsociety-github-io"
+version = "0.1.0"
+description = "The JCMS website"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "frozen-flask>=1.0.2",
+    "jinja-markdown>=1.210911",
+]

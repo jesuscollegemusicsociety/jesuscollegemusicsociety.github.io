@@ -1,0 +1,39 @@
+{% set current_url = url_for(request.endpoint) %}
+<header>
+    <div class="banner">
+        <a href="/">
+            <img src="{{ url_for('static', filename='jcms-logo.avif') }}" alt="" width="94" height="94">
+            <h2>Jesus College Music Society</h2>
+        </a>
+    </div>
+    <nav id="nav" hx-swap-oob="true">
+        <input type="checkbox" id="nav-toggle" aria-label="Toggle Navigation">
+        <label for="nav-toggle" id="nav-toggle-label"></label>
+        <ul class="sitemap">
+            {% for page in data["sitemap.yml"] %}
+            <li>
+                <a
+                    href="{{ page.url }}"
+                    {% if page.url == current_url %}class="current"{% endif %}
+                    hx-get="{{ page.url }}"
+                    hx-target="#main"
+                    hx-swap="none"
+                    hx-push-url="true"
+                >{{ page.name }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+        <ul class="socials">
+            <li>
+                <a href="https://www.facebook.com/jesuscollegemus/">
+                    <img src="{{ url_for('static', filename='facebook-logo.png') }}" alt="Facebook" width="20" height="20">
+                </a>
+            </li>
+            <li>
+                <a href="https://www.instagram.com/jesusmusicsociety/?hl=en">
+                    <img src="{{ url_for('static', filename='instagram-logo.png') }}" alt="Instagram" width="20" height="20">
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>

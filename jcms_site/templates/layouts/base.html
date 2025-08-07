@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}{% endblock %} | JCMS</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='base.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='flickity.css') }}" media="screen">
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon/favicon.ico') }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ url_for('static', filename='favicon/apple-touch-icon.png') }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ url_for('static', filename='favicon/favicon-32x32.png') }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ url_for('static', filename='favicon/favicon-16x16.png') }}">
+    <link rel="manifest" type="application/manifest+json" href="{{ url_for('static', filename='favicon/site.webmanifest') }}">
+    <script src="{{ url_for('static', filename='htmx.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='base.js') }}"></script>
+</head>
+<body>
+    <div class="header-main">
+        {% include "layouts/header.html" %}
+        <main id="main" hx-swap-oob="true">{% block content %}{% endblock %}</main>
+    </div>
+    {% include "layouts/footer.html" %}
+    <script src="{{ url_for('static', filename='flickity.min.js') }}"></script>
+</body>
+</html>
