@@ -6,7 +6,6 @@ alert("Looking for the JCMS website? Go to jcms.jesus.cam.ac.uk")
 
 const defaultOptions = {
     contain: true,
-    draggable: false,
     imagesLoaded: true,
 };
 

@@ -45,8 +45,24 @@
     --c-nav-bg: white;
 
     --footer-height: 5em;
-    --footer-copyright-fontsize: 16px;
-    --footer-credits-fontsize: 10px;
+
+    --fs-title: 32px;
+    --fs-heading: 24px;
+    --fs-main: 18px;
+    --fs-secondary: 14px;
+
+    --icon-size: 32px;
+}
+
+@media only screen and (min-width: 769px) {
+    :root {
+        --fs-title: 48px;
+        --fs-heading: 24px;
+        --fs-main: 16px;
+        --fs-secondary: 12px;
+        
+        --icon-size: 24px;
+    }
 }
 
 /*** reset ***/
@@ -82,7 +98,7 @@ a {
 body {
     line-height: 1.5;
     font-family: "Nunito", sans-serif;
-    font-size: 16px;
+    font-size: var(--fs-main);
     font-optical-sizing: auto;
     font-weight: 300;
     font-style: normal;
@@ -100,7 +116,7 @@ h6 {
 
 nav {
     font-family: "Nunito";
-    font-size: 15px;
+    font-size: var(--fs-main);
     font-weight: 600;
 }
 
@@ -134,19 +150,15 @@ nav {
     border-bottom: 2px solid var(--c-main-bg);
 }
 
-.sitemap {
-    display: none;
-    list-style: none;
-}
-
 #nav-toggle {
     display: none;
 }
 
 #nav-toggle-label {
     background-image: url("/static/menu-icon.svg");
-    width: 24px;
-    height: 24px;
+    background-size: 100% 100%;
+    width: var(--icon-size);
+    height: var(--icon-size);
 }
 
 nav:has(#nav-toggle:checked) {
@@ -155,6 +167,12 @@ nav:has(#nav-toggle:checked) {
 
 #nav-toggle:checked ~ #nav-toggle-label {
     background-image: url("/static/close-icon.svg");
+}
+
+nav .sitemap {
+    display: none;
+    list-style: none;
+    text-align: center;
 }
 
 #nav-toggle:checked ~ .sitemap {
@@ -171,7 +189,6 @@ nav:has(#nav-toggle:checked) {
         flex-grow: 1;
         display: flex;
         transform: none;
-        justify-content: center;
     }
 
     nav .sitemap li:not(:last-child) {
@@ -197,6 +214,7 @@ nav .socials {
     display: flex;
     column-gap: 0.5em;
     align-items: center;
+    justify-content: center;
     list-style: none;
 }
 
@@ -207,20 +225,20 @@ nav .socials {
 
 footer {
     height: var(--footer-height);
-    padding-top: 1em;
+    padding-top: 0.7em;
     background: var(--c-highlight-bg);
 }
 
 footer h3 {
     text-align: center;
     color: var(--c-highlight-fg);
-    font-size: var(--footer-copyright-fontsize);
+    font-size: var(--fs-main);
 }
 
 footer p {
     text-align: center;
     color: var(--c-highlight-fg2);
-    font-size: var(--footer-credits-fontsize);
+    font-size: var(--fs-secondary);
 }
 
 /*** main ***/
@@ -261,20 +279,19 @@ main {
 main h1 {
     margin-bottom: 0.5em;
     text-align: center;
-    font-size: 48px;
+    font-size: var(--fs-title);
 }
 
 @media only screen and (min-width: 769px) {
     main h1 {
         margin-top: 2em;
-        font-size: 64px;
     }
 }
 
 main h2 {
     margin-top: 1.5em;
     margin-bottom: 0.2em;
-    font-size: 24px;
+    font-size: var(--fs-heading);
 }
 
 .indented {
@@ -340,4 +357,24 @@ main a {
 
 .committee-cell h3 {
     margin-top: 0.5em;
+}
+
+/*** icons ***/
+
+.icon {
+    display: block;
+    width: var(--icon-size);
+    height: var(--icon-size);
+    background-size: 100% 100%;
+}
+
+.icon-facebook {
+    background-image: url('/static/facebook-logo.png');
+}
+.icon-instagram {
+    background-image: url('/static/instagram-logo.png');
+}
+
+.icon-email {
+    background-image: url('/static/email-icon.svg');
 }
