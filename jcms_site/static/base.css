@@ -188,6 +188,7 @@ nav .sitemap {
     nav .sitemap {
         flex-grow: 1;
         display: flex;
+        justify-content: center;
         transform: none;
     }
 
