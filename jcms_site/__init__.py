@@ -1,7 +1,10 @@
-from flask import Flask, send_from_directory, render_template, url_for
+from flask import Flask, send_from_directory, render_template
+from flask_assets import Environment
 from jinja_markdown import MarkdownExtension
 from pathlib import Path
 import yaml
+
+from .images import load_images
 
 root_dir = Path(__file__).parent.resolve()
 
@@ -12,24 +15,17 @@ app.config.update(
     FREEZER_DESTINATION="../build",
 )
 
+assets = Environment(app)
+assets.from_yaml("assets.yml")
 
 data = {}
 for path in root_dir.glob("data/**/*.yml"):
     with path.open() as file:
         data[str(path.relative_to(root_dir / "data"))] = yaml.safe_load(file)
 
+app.jinja_env.globals["data"] = data
 
-@app.context_processor
-def data_processor():
-    return {"data": data}
-
-
-@app.context_processor
-def photo_processor():
-    def photo(file):
-        return url_for("static", filename="photos/" + file)
-
-    return {"photo": photo}
+load_images(app)
 
 
 @app.route("/favicon.ico")
@@ -67,12 +63,11 @@ def committee():
     return render_template("committee.html")
 
 
-@app.route("/ensembles/")
-def ensembles():
-    return render_template("ensembles.html")
+@app.route("/ensembles-events/")
+def ensembles_events():
+    return render_template("ensembles-events.html")
 
 
 @app.route("/hire/")
 def hire():
     return render_template("hire.html")
-

@@ -1,4 +1,5 @@
 {% extends "layouts/base.html" %}
+{% from "layouts/macros.html" import image %}
 
 {% block title %}Committee{% endblock %}
 
@@ -8,7 +9,7 @@
     <div class="main-carousel nojs-flex" data-carousel='{"groupCells": true}'>
         {% for member in data["committee.yml"] %}
         <div class="carousel-cell committee-cell">
-            <img src="{{ photo(member.photo) }}">
+            {{ image(member.photo, "320px") }}
             <h3>{{ member.name }}</h3>
             <p>{{ member.role }}</p>
             <a href="mailto:{{ member.email }}" class="icon icon-email"></a>

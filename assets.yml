@@ -1,0 +1,17 @@
+css_base:
+  filters: cssmin
+  output: dist/css/base.css
+  contents:
+    - src/css/flickity.css
+    - src/css/reset.css
+    - src/css/fonts.css
+    - src/css/variables.css
+    - src/css/base.css
+
+js_base:
+  filters: jsmin
+  output: dist/js/base.js
+  contents:
+    - src/js/htmx.min.js
+    - src/js/flickity.min.js
+    - src/js/base.js

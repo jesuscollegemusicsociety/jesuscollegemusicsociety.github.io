@@ -3,8 +3,13 @@ name = "jesuscollegemusicsociety-github-io"
 version = "0.1.0"
 description = "The JCMS website"
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.11"
 dependencies = [
+    "cssmin>=0.2.0",
+    "flask-assets>=2.1.0",
     "frozen-flask>=1.0.2",
     "jinja-markdown>=1.210911",
+    "jsmin>=3.0.1",
+    "pillow>=11.3.0",
+    "pyscss>=1.4.0",
 ]

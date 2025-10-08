@@ -1,20 +1,74 @@
 - name: Freddie Jemison
   role: Co-President
-  email: jcms-president@jesus.cam.ac.uk
-  photo: freddie-jemison.jpg
+  email: jcms-president@jcsu.jesus.cam.ac.uk
+  photo: freddie-jemison.webp
+
+- name: Jenni Buss
+  role: Co-President
+  email: jcms-president@jcsu.jesus.cam.ac.uk
+  photo: jenni-buss.webp
+
+- name: Lara Pennel
+  role: Secretary
+  email: jcms-secretary@jcsu.jesus.cam.ac.uk
+  photo: lara-pennel.webp
+
+- name: Elena Ruddy
+  role: Treasurer
+  email: jcms-treasurer@jcsu.jesus.cam.ac.uk
+  photo: elena-ruddy.webp
+
+- name: Tommaso Vigliocco
+  role: Recitals Manager
+  email: jcms-recitals@jcsu.jesus.cam.ac.uk
+  photo: tommaso-vigliocco.webp
+
+- name: Toby Gardner
+  role: Gigs Manager
+  email: jcms-gigs@jcsu.jesus.cam.ac.uk
+  photo: toby-gardner.webp
+
+- name: Jeremy Stafford
+  role: Gigs Manager (Tech)
+  email: jcms-gigs@jcsu.jesus.cam.ac.uk
+  photo: jeremy-stafford.webp
+
+- name: Rachel Jones
+  role: Orchestral Manager
+  email: jcms-orch-manager@jcsu.jesus.cam.ac.uk
+  photo: rachel-jones.webp
+
 - name: Iona Hendleman
   role: Big Band Manager
-  email: jcms-big-band@jesus.cam.ac.uk
-  photo: iona-hendleman.jpg
-- name: Michael D'Avanzo
-  role: Recitals Manager Emeritus
-  email: jcms-recitals@jesus.cam.ac.uk
-  photo: michael-davanzo.jpg
-- name: Sid
-  role: Slow Worm Ambassador
-  email: jcms-slow-worm@jesus.cam.ac.uk
-  photo: slow-worm.jpg
-- name: Alison
-  role: Alpaca Ambassador
-  email: jcms-alpaca@jesus.cam.ac.uk
-  photo: alpaca.jpg
+  email:
+  photo: iona-hendleman.webp
+
+- name: Rachel Dennis
+  role: Concert Manager
+  email:
+  photo: rachel-dennis.webp
+
+- name: Charlie Martin
+  role: Inventory Manager
+  email: jcms-inventory@jcsu.jesus.cam.ac.uk
+  photo: charlie-martin.webp
+
+- name: Sofia Monarchi
+  role: Publicity Manager
+  email: jcms-publicity@jcsu.jesus.cam.ac.uk
+  photo: sofia-monarchi.webp
+
+- name: Ellis Chan
+  role: Webmaster
+  email: jcms-web@jcsu.jesus.cam.ac.uk
+  photo: ellis-chan.webp
+
+- name: Miriam Reveley
+  role: Chapel Sessions
+  email: jcms-chapel-sessions@jcsu.jesus.cam.ac.uk
+  photo: miriam-reveley.webp
+
+- name: Elena Brown Moreno
+  role: Social Secretary
+  email: jcms-social@jcsu.jesus.cam.ac.uk
+  photo: elena-brown-moreno.webp

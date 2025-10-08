@@ -1,2 +1,5 @@
 uv.lock
 .venv
+jcms_site/static/.webassets-cache
+jcms_site/static/dist
+build

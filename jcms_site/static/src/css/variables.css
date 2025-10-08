@@ -1,0 +1,31 @@
+:root {
+    --c-highlight-fg: white;
+    --c-highlight-fg2: black;
+    --c-highlight-bg: rgb(231, 90, 95);
+
+    --c-main-fg: white;
+    --c-main-bg: rgb(104, 7, 9);
+
+    --c-nav-fg: rgb(104, 7, 9);
+    --c-nav-bg: white;
+
+    --footer-height: 5em;
+
+    --fs-title: 32px;
+    --fs-heading: 24px;
+    --fs-main: 18px;
+    --fs-secondary: 14px;
+
+    --icon-size: 32px;
+}
+
+@media only screen and (min-width: 769px) {
+    :root {
+        --fs-title: 64px;
+        --fs-heading: 24px;
+        --fs-main: 16px;
+        --fs-secondary: 12px;
+
+        --icon-size: 24px;
+    }
+}

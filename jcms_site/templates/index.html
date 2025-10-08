@@ -7,7 +7,11 @@
     <div class="main-carousel" data-carousel='{"cellAlign": "left", "autoPlay": 5000}'>
         {% for photo in data["home-carousel.yml"] %}
         <div class="carousel-cell">
-            <img src="{{ url_for('static', filename='photos/' + photo.file) }}" alt="{{ photo.alt }}" width="769">
+            {{ image(photo.file, sizes="
+                (min-width: 1050px) 1000px,
+                (min-width: 850px) 800px,
+                calc(100vw - 1rem)
+            ", alt=photo.alt) }}
         </div>
         {% endfor %}
     </div>

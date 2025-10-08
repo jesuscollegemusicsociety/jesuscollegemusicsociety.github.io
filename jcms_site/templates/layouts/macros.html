@@ -1,0 +1,6 @@
+{% macro image(name, sizes, alt="") %}
+<img src="{{ url_for('static', filename='dist/images/800w/' + name) }}"
+    srcset="{% for width in image_widths %}{{ url_for('static', filename='dist/images/' ~ width ~ 'w/' ~ name) }} {{ width }}w, {% endfor %}"
+    sizes="{{ sizes }}"
+    alt="{{ alt }}">
+{% endmacro %}

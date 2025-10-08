@@ -1,8 +1,10 @@
+{% from "layouts/macros.html" import image %}
+
 {% set current_url = url_for(request.endpoint) %}
 <header>
     <div class="banner">
         <a href="/">
-            <img src="{{ url_for('static', filename='jcms-logo.avif') }}" alt="" width="94" height="94">
+            {{ image("jcms-logo.webp", sizes="100px") }}
             <h2>Jesus College Music Society</h2>
         </a>
     </div>
@@ -25,10 +27,14 @@
         </ul>
         <ul class="socials">
             <li>
-                <a href="https://www.facebook.com/jesuscollegemus/" class="icon icon-facebook"></a>
+                <a href="https://www.facebook.com/jesuscollegemus/" class="icon">
+                    {{ image("facebook-logo.webp", sizes="24px") }}
+                </a>
             </li>
             <li>
-                <a href="https://www.instagram.com/jesusmusicsociety/?hl=en" class="icon icon-instagram"></a>
+                <a href="https://www.instagram.com/jesusmusicsociety/?hl=en" class="icon">
+                    {{ image("instagram-logo.webp", sizes="24px") }}
+                </a>
             </li>
         </ul>
     </nav>

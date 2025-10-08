@@ -1,10 +1,15 @@
 {% extends "layouts/base.html" %}
+{% from "layouts/macros.html" import image %}
 
 {% block title %}Termcard{% endblock %}
 
 {% block content %}
 <div class="large-container">
     <h1>Termcard</h1>
-    <img src="{{ photo('Termcard-E25.avif') }}">
+    {{ image("termcard.webp", sizes="
+            (min-width: 1050px) 1000px,
+            (min-width: 850px) 800px,
+            calc(100vw - 1rem)
+        ") }}
 </div>
 {% endblock %}
