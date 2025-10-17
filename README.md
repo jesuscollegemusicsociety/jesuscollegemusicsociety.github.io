@@ -4,6 +4,17 @@ Hello, dear future Webmaster. Herein lies the JCMS website, as designed by Shrey
 and implemented by Jeremy S. (Jesus, 2023). Read on for an outline of what you need to know to make
 edits to the website.
 
+- [The JCMS Website](#the-jcms-website)
+  - [Basic edits](#basic-edits)
+    - [Adding, changing and removing images](#adding-changing-and-removing-images)
+  - [Changing text on the website](#changing-text-on-the-website)
+  - [Advanced edits](#advanced-edits)
+    - [The nav bar](#the-nav-bar)
+    - [Adding or removing pages](#adding-or-removing-pages)
+    - [Changing styling](#changing-styling)
+    - [Adding scripts](#adding-scripts)
+
+
 The website is hosted on `github.com`. You should have access via the webmaster email. All changes
 to the website will need to be made from `github.com`. Any files uploaded to this site are
 publically accessible, even if they are not included on the website.
