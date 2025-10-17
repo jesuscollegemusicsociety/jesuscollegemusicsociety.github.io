@@ -1,6 +1,6 @@
 /*** dev website alert ***/
 
-alert("Looking for the JCMS website? Go to jcms.jesus.cam.ac.uk")
+// alert("Looking for the JCMS website? Go to jcms.jesus.cam.ac.uk")
 
 /*** carousel ***/
 
