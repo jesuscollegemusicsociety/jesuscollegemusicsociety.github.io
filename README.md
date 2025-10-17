@@ -7,7 +7,7 @@ edits to the website.
 - [The JCMS Website](#the-jcms-website)
   - [Basic edits](#basic-edits)
     - [Adding, changing and removing images](#adding-changing-and-removing-images)
-  - [Changing text on the website](#changing-text-on-the-website)
+    - [Changing text on the website](#changing-text-on-the-website)
   - [Advanced edits](#advanced-edits)
     - [The nav bar](#the-nav-bar)
     - [Adding or removing pages](#adding-or-removing-pages)
@@ -79,7 +79,7 @@ To delete an image:
 If you miss step 3, or delete one of the images specifically named above, the website may not
 build correctly.
 
-## Changing text on the website
+### Changing text on the website
 
 The text for the text-heavy pages (listed below) is stored in the `jcms_site / text` in Markdown format. You can find various tutorials and editors for Markdown on the internet.
 
