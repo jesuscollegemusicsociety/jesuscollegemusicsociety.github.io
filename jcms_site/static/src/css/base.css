@@ -225,6 +225,10 @@ main p+h2 {
     margin-block-start: 1.5rem;
 }
 
+.main-carousel {
+    margin-block-end: 1rem;
+}
+
 .carousel-cell {
     width: 100%;
 }
