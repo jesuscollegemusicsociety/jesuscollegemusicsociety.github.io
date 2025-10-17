@@ -31,11 +31,12 @@ term the annual performance of the Snowman is popular with students and staff al
 touch with our [Chapel Sessions manager](mailto:jcms-chapel-sessions@jcsu.jesus.cam.ac.uk) if you'd like to perform at
 one of our chapel sessions.
 
-## Jesus Jazz
+## Jesus Big Band
 
-A new initiative this year, Jesus Jazz will be a jazz ensemble which meets regularly for relaxed jam sessions. As the
-year progresses and depending on numbers, there may be a re-launch of Jesus Big Band which will meet for regular rehearsals.
-If you're interested in joining, contact our [Jazz Managers](mailto:jcms-jazz@jscsu.jesus.cam.ac.uk).
+Jesus College Big Band is relaunching this year, with weekly rehearsals to build up a varied repertoire. We aim to
+bring together musicians from across the university with an interest in classic and modern Big Band music. If you are
+interested in getting involved, please contact our [Big Band Manager](mailto:jcms-big-band@jcsu.jesus.cam.ac.uk).
+We’d love to have you come along! 
 
 ## Jesus Saxophone Ensemble
 
