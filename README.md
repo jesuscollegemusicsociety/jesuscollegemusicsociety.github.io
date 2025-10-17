@@ -143,5 +143,5 @@ or it won't be included.
 ### Adding scripts
 
 All scripts can be found in `jcms_site / static / src / js`. Read a JS tutorial before changing
-these.If you add a new file, make sure it is added to `assets.yml` (at the project root) or it
+these. If you add a new file, make sure it is added to `assets.yml` (at the project root) or it
 won't be included.
