@@ -2,7 +2,7 @@
 
 ## Music Hire
 
-For music hire, contact our [Secretary](mailto:jcms-secretary@jesus.cam.ac.uk). The catalogue can be viewed [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTZSQ9K5moYUDk1E-xFzNpOtz2tmkVPumcw4qqDdAazxKHGyLktsnQHB6gCYJ7WXhU9LQb1h9oqEv_2/pubhtml).
+For music hire, contact our [Secretary](mailto:jcms-secretary@jesus.cam.ac.uk). The catalogue can be viewed [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTZSQ9K5moYUDk1E-xFzNpOtz2tmkVPumcw4qqDdAazxKHGyLktsnQHB6gCYJ7WXhU9LQb1h9oqEv_2/pubhtml?gid=1600631769&single=true).
 
 ## Equipment Hire
 
