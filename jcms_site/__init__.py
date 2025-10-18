@@ -71,3 +71,11 @@ def ensembles_events():
 @app.route("/hire/")
 def hire():
     return render_template("hire.html")
+
+@app.route("/catalogue/")
+def hire():
+    return render_template("catalogue.html")
+
+@app.route("/inventory/")
+def hire():
+    return render_template("inventory.html")
