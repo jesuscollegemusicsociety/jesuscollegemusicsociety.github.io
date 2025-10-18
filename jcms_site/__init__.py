@@ -74,10 +74,10 @@ def hire():
 
 
 @app.route("/catalogue/")
-def hire():
+def catalogue():
     return render_template("catalogue.html")
 
 
 @app.route("/inventory/")
-def hire():
+def inventory():
     return render_template("inventory.html")
