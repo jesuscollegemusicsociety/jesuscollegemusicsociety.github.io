@@ -18,6 +18,21 @@
   email: jcms-treasurer@jcsu.jesus.cam.ac.uk
   photo: elena-ruddy.webp
 
+- name: Rachel Jones
+  role: Orchestral Manager
+  email: jcms-orch-manager@jcsu.jesus.cam.ac.uk
+  photo: rachel-jones.webp
+
+- name: Iona Hendleman
+  role: Big Band Manager
+  email: jcms-bigband@jcsu.jesus.cam.ac.uk
+  photo: iona-hendleman.webp
+
+- name: Rachel Dennis
+  role: Concert Manager
+  email: 
+  photo: rachel-dennis.webp
+
 - name: Tommaso Vigliocco
   role: Recitals Manager
   email: jcms-recitals@jcsu.jesus.cam.ac.uk
@@ -32,21 +47,6 @@
   role: Gigs Manager (Tech)
   email: jcms-gigs@jcsu.jesus.cam.ac.uk
   photo: jeremy-stafford.webp
-
-- name: Rachel Jones
-  role: Orchestral Manager
-  email: jcms-orch-manager@jcsu.jesus.cam.ac.uk
-  photo: rachel-jones.webp
-
-- name: Iona Hendleman
-  role: Big Band Manager
-  email:
-  photo: iona-hendleman.webp
-
-- name: Rachel Dennis
-  role: Concert Manager
-  email:
-  photo: rachel-dennis.webp
 
 - name: Charlie Martin
   role: Inventory Manager
