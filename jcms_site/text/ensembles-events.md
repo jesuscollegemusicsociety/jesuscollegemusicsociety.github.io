@@ -35,7 +35,7 @@ one of our chapel sessions.
 
 Jesus College Big Band is relaunching this year, with weekly rehearsals to build up a varied repertoire. We aim to
 bring together musicians from across the university with an interest in classic and modern Big Band music. If you are
-interested in getting involved, please contact our [Big Band Manager](mailto:jcms-big-band@jcsu.jesus.cam.ac.uk).
+interested in getting involved, please contact our [Big Band Manager](mailto:jcms-bigband@jcsu.jesus.cam.ac.uk).
 We’d love to have you come along! 
 
 ## Jesus Saxophone Ensemble
