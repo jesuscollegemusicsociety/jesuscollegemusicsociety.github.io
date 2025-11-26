@@ -4,6 +4,16 @@
 
 *Friday 20th June 2025*
 
+- Brahms &mdash; Academic Festival Overture, Op. 80
+- Rimsky-Korsakov &mdash; Scheherazade Op. 35
+- Grieg &mdash; Peer Gynt Suite No.1, Op. 46
+
+*Conducted by* Freddie Jemison, Ellis Chan, Jeremy Stafford, Rachel Jones
+
+## May Week Concert 2025
+
+*Friday 20th June 2025*
+
 - Anon. &mdash; Drink to Me Only (Jesus Guitar Ensemble)
 - Daru and Qiulin &mdash; Bai Mudan (Jesus Guitar Ensemble)
 - Rodgers &mdash; Sound of Music medley
