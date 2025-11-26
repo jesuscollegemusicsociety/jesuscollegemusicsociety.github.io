@@ -1,8 +1,8 @@
 # Concert Archives
 
-## May Week Concert 2025
+## Michaelmas Concert 2025: Mountains, Myths and Merriment
 
-*Friday 20th June 2025*
+*Friday 21th Novembeer 2025*
 
 - Brahms &mdash; Academic Festival Overture, Op. 80
 - Rimsky-Korsakov &mdash; Scheherazade Op. 35
