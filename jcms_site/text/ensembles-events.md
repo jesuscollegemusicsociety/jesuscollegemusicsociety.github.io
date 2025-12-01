@@ -20,7 +20,7 @@ mailto:jcms-recitals@jcsu.jesus.cam.ac.uk).
 
 JCMS hosts gigs several times a term, showcasing student bands and performers from across Cambridge. These take place in
 the Brewery Room throughout the year. If you are interested in performing, or using the sound system in the Brewery Room,
-please contact our [Gigs Managers](mailto:jcms-gigs@jcsu.jesus.cam.ac.uk), or check out our [Gigin
+please contact our [Gigs Managers](mailto:jcms-gigs@jcsu.jesus.cam.ac.uk), or apply to one of our available gig dates on our [Gigin
 page](https://www.giginmusic.com/venues/068c9e3d-0ff5-4409-9a91-0b7ca0fb3c82).
 
 ## Chapel Sessions
