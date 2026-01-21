@@ -41,7 +41,7 @@ We’d love to have you come along!
 ## Jesus Saxophone Ensemble
 
 After a successful launch last year, the Jesus Saxophone Ensemble will continue to meet regularly for rehearsals and
-perform termly under the direction of Adrian Ifrim.
+perform termly under the direction of [Adrian Ifrim](mailto:ai411@cam.ac.uk).
 
 ## Jesus Guitar Ensemble
 
