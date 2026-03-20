@@ -1,5 +1,17 @@
 # Concert Archives
 
+## David Crighton Concert 2026
+
+*Saturday 7th March 2025*
+
+- Mozart &mdash; The Magic Flute Overture
+- Weber &mdash; Clarinet Concerto No.1
+  > Clarinet: Tommaso Vigliocco
+- Arnold &mdash; English Dance Op. 27 
+- Parry &mdash; Blessed Pair of Siren
+
+*Conducted by* Jenni Buss, Freddie Jemison, Rachel Dennis, Miriam Reveley
+
 ## Michaelmas Concert 2025: Mountains, Myths and Merriment
 
 *Friday 21th Novembeer 2025*
