@@ -15,7 +15,7 @@
 
 *Friday 16th June 2026*
 
-- Prokoviev &mdash; Peter and the Wolf
+- Prokofiev &mdash; Peter and the Wolf
 
 *Conducted by* Freddie Jemison
 
