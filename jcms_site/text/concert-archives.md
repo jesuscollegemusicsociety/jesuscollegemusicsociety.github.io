@@ -11,8 +11,6 @@
 
 *Conducted by* Rachel Dennis, Freddie Jemison, Jenni Buss, Elena Brown Moreno
 
-## David Crighton Concert 2026
-
 ## Peter and the Wolf
 
 *Friday 16th June 2026*
@@ -20,6 +18,8 @@
 - Prokoviev &mdash; Peter and the Wolf
 
 *Conducted by* Freddie Jemison
+
+## David Crighton Concert 2026
 
 *Saturday 7th March 2025*
 
