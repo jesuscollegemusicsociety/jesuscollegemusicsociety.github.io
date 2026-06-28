@@ -1,5 +1,16 @@
 # Concert Archives
 
+## May Week Concert 2026
+
+*Friday 20th June 2025*
+
+- Powell &mdash; How to Train Your Dragon
+- Williams &mdash; Flying Theme from ET
+- Menken &mdash; Beauty and the Beast 
+- Morricone &mdash; The Good, the Bad and the Ugly
+
+*Conducted by* Rachel Dennis, Freddie Jemison, Jenni Buss, Elena Brown Moreno
+
 ## David Crighton Concert 2026
 
 *Saturday 7th March 2025*
