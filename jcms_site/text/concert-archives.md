@@ -2,16 +2,24 @@
 
 ## May Week Concert 2026
 
-*Friday 20th June 2025*
+*Friday 18th June 2026*
 
 - Powell &mdash; How to Train Your Dragon
-- Williams &mdash; Flying Theme from ET
+- Williams &mdash; Flying Theme from E.T.
 - Menken &mdash; Beauty and the Beast 
 - Morricone &mdash; The Good, the Bad and the Ugly
 
 *Conducted by* Rachel Dennis, Freddie Jemison, Jenni Buss, Elena Brown Moreno
 
 ## David Crighton Concert 2026
+
+## Peter and the Wolf
+
+*Friday 16th June 2026*
+
+- Prokoviev &mdash; Peter and the Wolf
+
+*Conducted by* Freddie Jemison
 
 *Saturday 7th March 2025*
 
