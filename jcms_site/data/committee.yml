@@ -1,74 +1,79 @@
-- name: Freddie Jemison
+- name: Elena Ruddy
   role: Co-President
   email: jcms-president@jcsu.jesus.cam.ac.uk
-  photo: freddie-jemison.webp
+  photo: elena-ruddy.webp
 
-- name: Jenni Buss
+- name: Rachel Dennis
   role: Co-President
   email: jcms-president@jcsu.jesus.cam.ac.uk
   photo: jenni-buss.webp
 
-- name: Lara Pennell
+- name: Alexis Fradley
   role: Secretary
   email: jcms-secretary@jcsu.jesus.cam.ac.uk
-  photo: lara-pennel.webp
+  photo: alexis-fradley.webp
 
-- name: Elena Ruddy
+- name: Elena Brown Moreno
   role: Treasurer
   email: jcms-treasurer@jcsu.jesus.cam.ac.uk
-  photo: elena-ruddy.webp
+  photo: elena-brown-moreno.webp
 
-- name: Rachel Jones
+- name: Teo Luppi
   role: Orchestral Manager
   email: jcms-orch-manager@jcsu.jesus.cam.ac.uk
-  photo: rachel-jones.webp
+  photo: teo-luppi.webp
 
 - name: Iona Hendleman
   role: Big Band Manager
   email: jcms-bigband@jcsu.jesus.cam.ac.uk
   photo: iona-hendleman.webp
 
-- name: Rachel Dennis
+- name: Freddy Jemison
+  role: Big Band Manager
+  email: jcms-bigband@jcsu.jesus.cam.ac.uk
+  photo: freddy-jemison.webp
+
+- name: Izzy Taylor
   role: Concert Manager
   email: jcms-concerts@jcsu.jesus.cam.ac.uk
-  photo: rachel-dennis.webp
+  photo: izzy-taylor.webp
 
-- name: Tommaso Vigliocco
+- name: Jamie Brew
   role: Recitals Manager
   email: jcms-recitals@jcsu.jesus.cam.ac.uk
-  photo: tommaso-vigliocco.webp
+  photo: jamie-brew.webp
 
-- name: Toby Gardner
+- name: Tommaso Vigliocco
   role: Gigs Manager
   email: jcms-gigs@jcsu.jesus.cam.ac.uk
-  photo: toby-gardner.webp
+  photo: tommaso-vigliocco.webp
 
 - name: Jeremy Stafford
   role: Gigs Manager (Tech)
   email: jcms-gigs@jcsu.jesus.cam.ac.uk
   photo: jeremy-stafford.webp
 
-- name: Charlie Martin
+- name: Mimi Gu
   role: Inventory Manager
   email: jcms-inventory@jcsu.jesus.cam.ac.uk
-  photo: charlie-martin.webp
+  photo: mimi-gu.webp
 
-- name: Sofia Monarchi
+- name: Imogen Aley
   role: Publicity Manager
   email: jcms-publicity@jcsu.jesus.cam.ac.uk
-  photo: sofia-monarchi.webp
+  photo: imogen-aley.webp
 
 - name: Ellis Chan
   role: Webmaster
   email: jcms-web@jcsu.jesus.cam.ac.uk
   photo: ellis-chan.webp
 
-- name: Miriam Reveley
+- name: Ellen Goodwin
   role: Chapel Sessions
   email: jcms-chapel-sessions@jcsu.jesus.cam.ac.uk
-  photo: miriam-reveley.webp
+  photo: ellen-goodwin.webp
 
-- name: Elena Brown Moreno
+- name: Rachel Jones
   role: Social Secretary
   email: jcms-social@jcsu.jesus.cam.ac.uk
-  photo: elena-brown-moreno.webp
+  photo: rachel-jones.webp
