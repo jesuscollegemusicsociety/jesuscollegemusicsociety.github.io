@@ -1,5 +1,16 @@
 # Concert Archives
 
+## Michaelmas Concert 2026
+
+*Friday 20th Novembeer 2026*
+
+- Wagner &mdash; Tristan and Isolde WWV 90
+- Shostakovich &mdash; Suite for Variety Orchestra No.1
+- Smetana &mdash; Vltava JB 1:112/2
+- Tchaikovsky &mdash; The Nutcracker Suite Op.71a
+
+*Conducted by* Jamie Brew, Izzy Taylor, Rachel Dennis, Jeremy Stafford
+
 ## May Week Concert 2026
 
 *Friday 18th June 2026*
