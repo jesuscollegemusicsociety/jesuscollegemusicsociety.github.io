@@ -9,7 +9,7 @@
 - Smetana &mdash; Vltava JB 1:112/2
 - Tchaikovsky &mdash; The Nutcracker Suite Op.71a
 
-*Conducted by* Jamie Brew, Izzy Taylor, Rachel Dennis, Jeremy Stafford
+*Conducted by* Jamie Brew, Izzy Taylor, Rachel Dennis, Jeremy Stafford, Teo Luppi
 
 ## May Week Concert 2026
 
