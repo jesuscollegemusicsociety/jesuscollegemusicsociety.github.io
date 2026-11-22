@@ -2,7 +2,7 @@
 
 ## Michaelmas Concert 2026
 
-*Friday 20th Novembeer 2026*
+*Friday 20th November 2026*
 
 - Wagner &mdash; Tristan and Isolde WWV 90
 - Shostakovich &mdash; Suite for Variety Orchestra No.1
@@ -44,7 +44,7 @@
 
 ## Michaelmas Concert 2025: Mountains, Myths and Merriment
 
-*Friday 21th Novembeer 2025*
+*Friday 21th November 2025*
 
 - Brahms &mdash; Academic Festival Overture, Op. 80
 - Rimsky-Korsakov &mdash; Scheherazade Op. 35
